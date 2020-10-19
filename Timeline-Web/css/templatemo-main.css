@@ -142,6 +142,17 @@ a:hover { color: #FF0; }
   background-size: cover;
 }
 
+.parallax-content .left-text h4 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #fff;
+}
+.parallax-content .left-text .line-dec {
+  width: 45px;
+  height: 3px;
+  background-color: #ff7d27;
+  margin: 20px 0px 20px 0px;
+}
 
 .baner-content {
   padding-top: 30vh;
