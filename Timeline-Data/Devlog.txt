@@ -1,0 +1,8 @@
+<Title>Current version
+This is an in dev version of the game.
+It is currently in development and many bugs and glitches can occur during testing.
+Please report those and give feedback so I can try to fix the issues :)
+<Title>Known bugs
+- Formations cause weird movement behavior during interactions (attacking, gathering, ...).
+- Garrisoned entities can be teleported when exiting a ship.
+- Audio is duplicated in the main menu when exiting the multiplayer lobby.
